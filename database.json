@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "name": "dadsa",
+      "description": "dsadas",
+      "price": 2313123,
+      "image": "dadaassa",
+      "memory": "64",
+      "color": "white",
+      "id": 4
+    },
+    {
+      "name": "dadasd",
+      "description": "dadas",
+      "price": 12312312,
+      "image": "dsaasda",
+      "memory": "64",
+      "color": "white",
+      "feedbacks": [],
+      "likes": 0,
+      "id": 5
+    },
+    {
+      "name": "313131",
+      "description": "dasasd",
+      "price": 1231,
+      "image": "asdasd",
+      "memory": "16",
+      "color": "blue",
+      "id": 6
+    }
+  ]
+}
